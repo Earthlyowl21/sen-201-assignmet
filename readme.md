@@ -1,7 +1,8 @@
+NAME: uwakwe chibuike ifeanyichukwu
+MATRIC NUMBER: 24/14779
+DEPATMENT: CYBER SECURITY
+
 ##### \# Hello World Program
-
-
-
 A simple Python program that prints "Hello, World 🌎" to the console.
 
 
@@ -25,4 +26,5 @@ print(greeting.upper())"
 
 
 ```
+
 
